@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "CHE.R.RY",
+  "base_artist": "アーリャ（CV：上坂すみれ）",
+  "createdAt": "2026-03-19T12:16:54.199577Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "CHE.R.RY",
+      "artist": "YUI",
+      "has_synced": true,
+      "path": "select/01_CHE.R.RY_YUI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "CHE. R. RY",
+      "artist": "Yui",
+      "has_synced": true,
+      "path": "select/02_CHE._R._RY_Yui.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "CHE.R.RY (NATURAL Version)",
+      "artist": "YUI",
+      "has_synced": true,
+      "path": "select/03_CHE.R.RY_(NATURAL_Version)_YUI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "CHE.R.RY(NATURAL Version)",
+      "artist": "Yui",
+      "has_synced": true,
+      "path": "select/04_CHE.R.RY(NATURAL_Version)_Yui.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "CHE.R.RY ~YUI Acoustic Version~",
+      "artist": "YUI",
+      "has_synced": false,
+      "path": "select/05_CHE.R.RY_~YUI_Acoustic_Version~_YUI.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Che. R. Ry",
+      "artist": "Yui",
+      "has_synced": true,
+      "path": "select/06_Che._R._Ry_Yui.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "CHE.R.RY - From THE FIRST TAKE",
+      "artist": "YUI",
+      "has_synced": true,
+      "path": "select/07_CHE.R.RY_-_From_THE_FIRST_TAKE_YUI.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "CHE.R.RY",
+      "artist": "YUI",
+      "has_synced": true,
+      "path": "select/08_CHE.R.RY_YUI.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "CHE.R.RY (Bossa Live Version)",
+      "artist": "YUI",
+      "has_synced": true,
+      "path": "select/09_CHE.R.RY_(Bossa_Live_Version)_YUI.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "CHE.R.RY",
+      "artist": "FIRE DOG 69",
+      "has_synced": false,
+      "path": "select/10_CHE.R.RY_FIRE_DOG_69.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "CHE.R.RY (NATURAL Ver.)",
+      "artist": "YUI",
+      "has_synced": true,
+      "path": "select/11_CHE.R.RY_(NATURAL_Ver.)_YUI.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "CHE.R.RY 〜YUI Acoustic Version〜",
+      "artist": "YUI",
+      "has_synced": false,
+      "path": "select/12_CHE.R.RY_〜YUI_Acoustic_Version〜_YUI.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "CHE.R.RY",
+      "artist": "YUI",
+      "has_synced": true,
+      "path": "select/13_CHE.R.RY_YUI.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "CHE.R.RY ～Bossa Live Version～",
+      "artist": "YUI",
+      "has_synced": true,
+      "path": "select/14_CHE.R.RY_~Bossa_Live_Version~_YUI.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "CHE.R.RY – From THE FIRST TAKE",
+      "artist": "YUI",
+      "has_synced": true,
+      "path": "select/15_CHE.R.RY_–_From_THE_FIRST_TAKE_YUI.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "CHE.R.RY",
+      "artist": "アーリャ（CV：上坂すみれ）",
+      "has_synced": true,
+      "path": "select/16_CHE.R.RY_アーリャ(CV_上坂すみれ).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CHE.R.RY",
+      "artist": "アーリャ(CV:上坂すみれ)",
+      "has_synced": false,
+      "path": "select/pl_01_CHE.R.RY_アーリャ(CV_上坂すみれ).txt"
+    }
+  ]
+}
